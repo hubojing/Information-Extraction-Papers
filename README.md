@@ -18,6 +18,17 @@
 - MILIE: Modular & Iterative Multilingual Open Information Extraction
 [PDF](https://aclanthology.org/2022.acl-long.478/)
 
+## NAACL 2022
+- GenIE: Generative Information Extraction
+[PDF](https://arxiv.org/pdf/2112.08340)
+[CODE](https://github.com/epfl-dlab/GenIE)
+- CompactIE: Compact Facts in Open Information Extraction
+[PDF](https://arxiv.org/pdf/2205.02880)
+- GMN: Generative Multi-modal Network for Practical Document Information Extraction
+[PDF](https://arxiv.org/pdf/2207.04713)
+- Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies
+[PDF](https://aclanthology.org/2022.naacl-main.324.pdf)
+
 # 命名实体识别
 ## ACL 2022
 - Bottom-Up Constituency Parsing and Nested Named Entity Recognition with Pointer Networks
@@ -70,6 +81,25 @@
 - Towards Few-shot Entity Recognition in Document Images: A Label-aware Sequence-to-Sequence Framework
 [PDF](https://arxiv.org/pdf/2204.05819)
 
+## NAACL 2022
+- Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting
+[PDF](http://114.215.220.151:8000/20220503/Robust%20Self-Augmentation%20for%20Named%20Entity%20Recognition%20with%20Meta%20Reweighting.pdf)
+- ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition
+[PDF](https://arxiv.org/pdf/2112.06482)
+- Label Refinement via Contrastive Learning for Distantly-Supervised Named Entity Recognition
+[PDF](https://aclanthology.org/2022.findings-naacl.203.pdf)
+- Dynamic Gazetteer Integration in Multilingual Models for Cross-Lingual and Cross-Domain Named Entity Recognition
+[PDF](https://aclanthology.org/2022.naacl-main.200.pdf)
+- Sentence-Level Resampling for Named Entity Recognition
+[PDF](https://aclanthology.org/2022.naacl-main.156.pdf)
+- On the Use of External Data for Spoken Named Entity Recognition
+[PDF](https://arxiv.org/pdf/2112.07648)
+- Hero-Gang Neural Model For Named Entity Recognition
+[PDF](https://arxiv.org/pdf/2205.07177)
+- Delving Deep into Regularity: A Simple but Effective Method for Chinese Named Entity Recognition
+[PDF](https://arxiv.org/pdf/2204.05544)
+- MultiNER: A Multilingual, Multi-Genre and Fine-Grained Dataset for Named Entity Recognition
+[PDF](https://aclanthology.org/2022.findings-naacl.60.pdf)
 
 # 关系抽取
 ## ACL 2022
@@ -117,17 +147,37 @@
 - Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis
 [PDF](https://arxiv.org/pdf/2205.03784)
 [CODE](https://github.com/vanoracai/CoRE)
+- Good Visual Guidance Make A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction
+[PDF](https://arxiv.org/pdf/2205.03521)
+[CODE](https://github.com/zjunlp/HVPNeT)
 - Generic and Trend-aware Curriculum Learning for Relation Extraction
 [PDF](https://aclanthology.org/2022.naacl-main.160.pdf)
 - Document-Level Relation Extraction with Sentences Importance Estimation and Focusing
 [PDF](https://arxiv.org/pdf/2204.12679)
 - SAIS: Supervising and Augmenting Intermediate Steps for Document-Level Relation Extraction
 [PDF](https://arxiv.org/pdf/2109.12093)
+- Modeling Explicit Task Interactions in Document-Level Joint Entity and Relation Extraction
+[PDF](https://arxiv.org/pdf/2205.01909)
+- Relation-Specific Attentions over Entity Mentions for Enhanced Document-Level Relation Extraction
+[PDF](https://arxiv.org/pdf/2205.14393)
+- EmRel: Joint Representation of Entities and Embedded Relations for Multi-triple Extraction
+[PDF](https://aclanthology.org/2022.naacl-main.48.pdf)
 - A Dataset for N-ary Relation Extraction of Drug Combinations
 [PDF](https://arxiv.org/pdf/2205.02289)
-
-
-
+- RCL: Relation Contrastive Learning for Zero-Shot Relation Extraction
+[PDF](https://aclanthology.org/2022.findings-naacl.188.pdf)
+- Learning Discriminative Representations for Open Relation Extraction with Instance Ranking and Label Calibration
+[PDF](https://aclanthology.org/2022.findings-naacl.186.pdf)
+- Learn from Relation Information: Towards Prototype Representation Rectification for Few-Shot Relation Extraction
+[PDF](https://aclanthology.org/2022.findings-naacl.139.pdf)
+- GraphCache: Message Passing as Caching for Sentence-Level Relation Extraction
+[PDF](https://aclanthology.org/2022.findings-naacl.139.pdf)
+- Dependency Position Encoding for Relation Extraction
+[PDF](https://aclanthology.org/2022.findings-naacl.120.pdf)
+- Hierarchical Relation-Guided Type-Sentence Alignment for Long-Tail Relation Extraction with Distant Supervision
+[PDF](https://arxiv.org/pdf/2109.09036)
+- Extracting Temporal Event Relation with Syntax-guided Graph Transformer
+[PDF](https://aclanthology.org/2022.findings-naacl.29.pdf)
 
 # 事件抽取
 
