@@ -109,14 +109,15 @@
 - RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction
 [PDF](https://arxiv.org/pdf/2203.09101)
 [CODE](https://github.com/declare-lab/RelationPrompt)
+- Packed Levitated Marker for Entity and Relation Extraction
+[PDF](https://aclanthology.org/2022.acl-long.337/)
+[CODE](https://github.com/ thunlp/PL-Marker)
 - DiS-ReX: A Multilingual Dataset for Distantly Supervised Relation Extraction
 [PDF](https://arxiv.org/pdf/2104.08655)
 - Consistent Representation Learning for Continual Relation Extraction
 [PDF](https://arxiv.org/pdf/2203.02721)
 - Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction
 [PDF](https://arxiv.org/pdf/2203.10316)
-- Packed Levitated Marker for Entity and Relation Extraction
-[PDF](https://aclanthology.org/2022.acl-long.337/)
 - Pre-training to Match for Unified Low-shot Relation Extraction
 [PDF](https://arxiv.org/pdf/2203.12274)
 - HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction
