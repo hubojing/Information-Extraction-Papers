@@ -31,6 +31,9 @@
 
 # 命名实体识别
 ## ACL 2022
+- KinyaBERT: a Morphology-aware Kinyarwanda Language Model
+[PDF](https://arxiv.org/abs/2203.08459)
+[CODE](https://github.com/anzeyimana/kinyabert-acl2022)
 - Bottom-Up Constituency Parsing and Nested Named Entity Recognition with Pointer Networks
 [PDF](https://arxiv.org/pdf/2110.05419)
 [CODE](https://github.com/sustcsonglin/pointer-net-for-nested)
