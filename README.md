@@ -43,6 +43,9 @@
 - Decomposed Meta-Learning for Few-Shot Named Entity Recognition
 [PDF](https://arxiv.org/pdf/2204.05751)
 [CODE](https://github.com/microsoft/vert-papers/tree/master/papers/DecomposedMetaNER)
+- Thai Nested Named Entity Recognition Corpus
+[PDF](https://aclanthology.org/2022.findings-acl.116/)
+[CODE](https://github.com/vistec-AI/Thai-NNER)
 - An Unsupervised Multiple-Task and Multiple-Teacher Model for Cross-lingual Named Entity Recognition
 [PDF](https://arxiv.org/pdf/2109.07589)
 - Distantly Supervised Named Entity Recognition via Confidence-Based Multi-Class Positive and Unlabeled Learning
@@ -69,8 +72,6 @@
 [PDF](https://arxiv.org/pdf/2203.10545)
 - Extract-Select: A Span Selection Framework for Nested Named Entity Recognition with Generative Adversarial Training
 [PDF](https://aclanthology.org/2022.findings-acl.9/)
-- Thai Nested Named Entity Recognition Corpus
-[PDF](https://aclanthology.org/2022.findings-acl.116/)
 - Learn and Review: Enhancing Continual Named Entity Recognition via Reviewing Synthetic Samples
 [PDF](https://aclanthology.org/2022.findings-acl.179/)
 - Cross-domain Named Entity Recognition via Graph Matching
