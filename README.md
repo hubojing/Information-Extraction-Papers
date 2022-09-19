@@ -105,6 +105,10 @@
 - MultiNER: A Multilingual, Multi-Genre and Fine-Grained Dataset for Named Entity Recognition
 [PDF](https://aclanthology.org/2022.findings-naacl.60.pdf)
 
+# 其它
+- An Embarrassingly Easy but Strong Baseline for Nested Named Entity Recognition
+[PDF](https://arxiv.org/abs/2208.04534)
+
 # 关系抽取
 ## ACL 2022
 - Document-Level Relation Extraction with Adaptive Focal Loss and Knowledge Distillation
