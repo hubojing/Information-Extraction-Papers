@@ -7,6 +7,7 @@
 [PDF](https://arxiv.org/pdf/2109.02707)
 - Unified Structure Generation for Universal Information Extraction
 [PDF](https://arxiv.org/pdf/2203.12277)
+[CODE](https://github.com/universal-ie/UIE)
 - FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction
 [PDF](https://arxiv.org/pdf/2203.08411)
 - Automatic Error Analysis for Document-level Information Extraction
