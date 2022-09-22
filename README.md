@@ -5,6 +5,7 @@
 ## ACL 2022
 - Text-to-Table: A New Way of Information Extraction
 [PDF](https://arxiv.org/pdf/2109.02707)
+[CODE](https://github.com/shirley-wu/text_to_table)
 - Unified Structure Generation for Universal Information Extraction
 [PDF](https://arxiv.org/pdf/2203.12277)
 [CODE](https://github.com/universal-ie/UIE)
@@ -12,8 +13,10 @@
 [PDF](https://arxiv.org/pdf/2203.08411)
 - Automatic Error Analysis for Document-level Information Extraction
 [PDF](https://aclanthology.org/2022.acl-long.274/)
+[CODE](https://github.com/IceJinx33/auto-err-template-fill/)
 - BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation
 [PDF](https://aclanthology.org/2022.acl-long.307/)
+[CODE](https://github.com/gkiril/benchie)
 - OIE@OIA: an Adaptable and Efficient Open Information Extraction Framework
 [PDF](https://aclanthology.org/2022.acl-long.430/)
 - MILIE: Modular & Iterative Multilingual Open Information Extraction
