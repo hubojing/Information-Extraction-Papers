@@ -28,6 +28,7 @@
 [CODE](https://github.com/epfl-dlab/GenIE)
 - CompactIE: Compact Facts in Open Information Extraction
 [PDF](https://arxiv.org/pdf/2205.02880)
+[CODE](https://github.com/FarimaFatahi/CompactIE)
 - GMN: Generative Multi-modal Network for Practical Document Information Extraction
 [PDF](https://arxiv.org/pdf/2207.04713)
 - Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies
