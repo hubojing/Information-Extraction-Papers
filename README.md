@@ -57,8 +57,10 @@
 [PDF](https://aclanthology.org/2022.acl-long.14/)
 - Boundary Smoothing for Named Entity Recognition
 [PDF](https://arxiv.org/pdf/2204.12031)
+[CODE](https://github.com/syuoni/eznlp)
 - CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning
 [PDF](https://arxiv.org/pdf/2204.09589)
+[CODE](https://github.com/psunlpgroup/CONTaiNER)
 - Few-Shot Class-Incremental Learning for Named Entity Recognition
 [PDF](https://aclanthology.org/2022.acl-long.43/)
 - Few-shot Named Entity Recognition with Self-describing Networks
