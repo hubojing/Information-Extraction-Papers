@@ -67,16 +67,21 @@
 [PDF](https://arxiv.org/pdf/2203.12252)
 - FiNER: Financial Numeric Entity Recognition for XBRL Tagging
 [PDF](https://arxiv.org/pdf/2203.06482)
+[CODE](https://github.com/nlpaueb/finer)
 - MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER
 [PDF](https://aclanthology.org/2022.acl-long.160/)
+[CODE](https://github.com/RandyZhouRan/MELM/)
 - MINER: Improving Out-of-Vocabulary Named Entity Recognition from an Information Theoretic
 [PDF](https://arxiv.org/pdf/2204.04391)
+[CODE](https://github.com/BeyonderXX/MINER)
 - Nested Named Entity Recognition as Latent Lexicalized Constituency Parsing
 [PDF](https://arxiv.org/pdf/2203.04665)
+[CODE](https://github.com/LouChao98/nner_as_parsing)
 - Nested Named Entity Recognition with Span-level Graphs
 [PDF](https://aclanthology.org/2022.acl-long.63/)
 - Parallel Instance Query Network for Named Entity Recognition
 [PDF](https://arxiv.org/pdf/2203.10545)
+[CODE](https://github.com/tricktreat/piqn)
 - Extract-Select: A Span Selection Framework for Nested Named Entity Recognition with Generative Adversarial Training
 [PDF](https://aclanthology.org/2022.findings-acl.9/)
 - Learn and Review: Enhancing Continual Named Entity Recognition via Reviewing Synthetic Samples
