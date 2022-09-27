@@ -90,12 +90,15 @@
 [PDF](https://aclanthology.org/2022.findings-acl.210/)
 - Extracting Person Names from User Generated Text: Named-Entity Recognition for Combating Human Trafficking
 [PDF](https://aclanthology.org/2022.findings-acl.225/)
+[CODE](https://github.com/tudou0002/NEAT)
 - Fusing Heterogeneous Factors with Triaffine Mechanism for Nested Named Entity Recognition
 [PDF](https://arxiv.org/pdf/2110.07480)
+[CODE](https://github.com/GanjinZero/Triaffine-nested-ner)
 - Label Semantics for Few Shot Named Entity Recognition
 [PDF](https://arxiv.org/pdf/2203.08985)
 - Towards Few-shot Entity Recognition in Document Images: A Label-aware Sequence-to-Sequence Framework
 [PDF](https://arxiv.org/pdf/2204.05819)
+[CODE](https://github.com/zlwang-cs/LASER-release)
 
 ## NAACL 2022
 - Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting
