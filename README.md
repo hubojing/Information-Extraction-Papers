@@ -103,22 +103,29 @@
 ## NAACL 2022
 - Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting
 [PDF](http://114.215.220.151:8000/20220503/Robust%20Self-Augmentation%20for%20Named%20Entity%20Recognition%20with%20Meta%20Reweighting.pdf)
+[CODE](https://github.com/LindgeW/MetaAug4NER)
 - ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition
 [PDF](https://arxiv.org/pdf/2112.06482)
+[CODE](https://github.com/Alibaba-NLP/KB-NER/tree/main/ITA)
 - Label Refinement via Contrastive Learning for Distantly-Supervised Named Entity Recognition
 [PDF](https://aclanthology.org/2022.findings-naacl.203.pdf)
+[CODE](https://github.com/yinghy18/CReDEL)
 - Dynamic Gazetteer Integration in Multilingual Models for Cross-Lingual and Cross-Domain Named Entity Recognition
 [PDF](https://aclanthology.org/2022.naacl-main.200.pdf)
 - Sentence-Level Resampling for Named Entity Recognition
 [PDF](https://aclanthology.org/2022.naacl-main.156.pdf)
+[CODE](https://github.com/XiaoChen-W/NER_Adaptive_Resampling)
 - On the Use of External Data for Spoken Named Entity Recognition
 [PDF](https://arxiv.org/pdf/2112.07648)
+[CODE](https://github.com/asappresearch/spoken-ner)
 - Hero-Gang Neural Model For Named Entity Recognition
 [PDF](https://arxiv.org/pdf/2205.07177)
+[CODE](https://github.com/jinpeng01/HGN)
 - Delving Deep into Regularity: A Simple but Effective Method for Chinese Named Entity Recognition
 [PDF](https://arxiv.org/pdf/2204.05544)
 - MultiNER: A Multilingual, Multi-Genre and Fine-Grained Dataset for Named Entity Recognition
 [PDF](https://aclanthology.org/2022.findings-naacl.60.pdf)
+[CODE](https://github.com/Babelscape/multinerd)
 
 # 其它
 - An Embarrassingly Easy but Strong Baseline for Nested Named Entity Recognition
