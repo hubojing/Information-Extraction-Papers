@@ -130,6 +130,7 @@
 # 其它
 - An Embarrassingly Easy but Strong Baseline for Nested Named Entity Recognition
 [PDF](https://arxiv.org/abs/2208.04534)
+[CODE](https://github.com/yhcc/CNN_Nested_NER)
 
 # 关系抽取
 ## ACL 2022
