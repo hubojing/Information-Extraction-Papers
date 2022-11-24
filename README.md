@@ -127,6 +127,10 @@
 [PDF](https://aclanthology.org/2022.findings-naacl.60.pdf)
 [CODE](https://github.com/Babelscape/multinerd)
 
+# AAAI
+- Unified Named Entity Recognition as Word-Word Relation Classification
+[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/21344)
+
 # 其它
 - An Embarrassingly Easy but Strong Baseline for Nested Named Entity Recognition
 [PDF](https://arxiv.org/abs/2208.04534)
