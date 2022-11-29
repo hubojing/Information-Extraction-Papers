@@ -1,39 +1,6 @@
 # Information-Extraction-Papers
 信息抽取相关顶会论文。
 
-# 信息抽取
-## ACL 2022
-- Text-to-Table: A New Way of Information Extraction
-[PDF](https://arxiv.org/pdf/2109.02707)
-[CODE](https://github.com/shirley-wu/text_to_table)
-- Unified Structure Generation for Universal Information Extraction
-[PDF](https://arxiv.org/pdf/2203.12277)
-[CODE](https://github.com/universal-ie/UIE)
-- FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction
-[PDF](https://arxiv.org/pdf/2203.08411)
-- Automatic Error Analysis for Document-level Information Extraction
-[PDF](https://aclanthology.org/2022.acl-long.274/)
-[CODE](https://github.com/IceJinx33/auto-err-template-fill/)
-- BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation
-[PDF](https://aclanthology.org/2022.acl-long.307/)
-[CODE](https://github.com/gkiril/benchie)
-- OIE@OIA: an Adaptable and Efficient Open Information Extraction Framework
-[PDF](https://aclanthology.org/2022.acl-long.430/)
-- MILIE: Modular & Iterative Multilingual Open Information Extraction
-[PDF](https://aclanthology.org/2022.acl-long.478/)
-
-## NAACL 2022
-- GenIE: Generative Information Extraction
-[PDF](https://arxiv.org/pdf/2112.08340)
-[CODE](https://github.com/epfl-dlab/GenIE)
-- CompactIE: Compact Facts in Open Information Extraction
-[PDF](https://arxiv.org/pdf/2205.02880)
-[CODE](https://github.com/FarimaFatahi/CompactIE)
-- GMN: Generative Multi-modal Network for Practical Document Information Extraction
-[PDF](https://arxiv.org/pdf/2207.04713)
-- Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies
-[PDF](https://aclanthology.org/2022.naacl-main.324.pdf)
-
 # 命名实体识别
 ## ACL 2022
 - KinyaBERT: a Morphology-aware Kinyarwanda Language Model
@@ -100,6 +67,25 @@
 [PDF](https://arxiv.org/pdf/2204.05819)
 [CODE](https://github.com/zlwang-cs/LASER-release)
 
+## EMNLP 2022
+- Reconciliation of Pre-trained Models and Prototypical Neural Networks in Few-shot Named Entity Recognition
+- DualNER: A Dual-Teaching framework for Zero-shot Cross-lingual Named Entity Recognition
+- Formulating Few-shot Fine-tuning Towards Language Model Pre-training: A Pilot Study on Named Entity Recognition
+- Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition
+- Style Transfer as Data Augmentation: A Case Study on Named Entity Recognition
+- SetGNER: General Named Entity Recognition as Entity Set Generation
+- SpanProto: A Two-stage Span-based Prototypical Network for Few-shot Named Entity Recognition
+- Distilling Causal Effect from Miscellaneous Other-Class for Continual Named Entity Recognition
+- MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition
+- Wider & Closer: Mixture of Short-channel Distillers for Zero-shot Cross-lingual Named Entity Recognition
+- Simple Questions Generate Named Entity Recognition Datasets
+- A Span-based Multimodal Variational Autoencoder for Semi-supervised Multimodal Named Entity Recognition
+- Attention and Edge-Label Guided Graph Convolutional Networks for Named Entity Recognition
+- ConNER: Consistency Training for Cross-lingual Named Entity Recognition
+- SLICER: Sliced Fine-Tuning for Low-Resource Cross-Lingual Transfer for Named Entity Recognition
+- CROP: Zero-shot Cross-lingual Named Entity Recognition with Multilingual Labeled Sequence Translation
+- TransAdv: A Translation-based Adversarial Learning Framework for Zero-Resource Cross-Lingual Named Entity Recognition
+
 ## NAACL 2022
 - Robust Self-Augmentation for Named Entity Recognition with Meta Reweighting
 [PDF](http://114.215.220.151:8000/20220503/Robust%20Self-Augmentation%20for%20Named%20Entity%20Recognition%20with%20Meta%20Reweighting.pdf)
@@ -127,11 +113,16 @@
 [PDF](https://aclanthology.org/2022.findings-naacl.60.pdf)
 [CODE](https://github.com/Babelscape/multinerd)
 
-# AAAI
+## AAAI 2022
 - Unified Named Entity Recognition as Word-Word Relation Classification
 [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/21344)
 
-# 其它
+## LREC 2022
+- What do we really know about State of the Art NER?
+[PDF](https://aclanthology.org/2022.lrec-1.643/)
+[CODE](https://github.com/nishkalavallabhi/SOTANER)
+
+## 其它
 - An Embarrassingly Easy but Strong Baseline for Nested Named Entity Recognition
 [PDF](https://arxiv.org/abs/2208.04534)
 [CODE](https://github.com/yhcc/CNN_Nested_NER)
@@ -169,6 +160,27 @@
 [PDF](https://aclanthology.org/2022.findings-acl.256/)
 - Improving Relation Extraction through Syntax-induced Pre-training with Dependency Masking
 [PDF](https://aclanthology.org/2022.findings-acl.147/)
+
+## EMNLP 2022
+- DORE: Document Ordered Relation Extraction based on Generative Framework
+- CrossRE: A Cross-Domain Dataset for Relation Extraction
+- Multilingual SubEvent Relation Extraction: A Novel Dataset and Structure Induction Method
+- Named Entity and Relation Extraction with Multi-Modal Retrieval
+- Explore Unsupervised Structures in Pretrained Models for Relation Extraction
+- Summarization as Indirect Supervision for Relation Extraction
+- Graph-based Model Generation for Few-Shot Relation Extraction
+- ReSel: N-ary Relation Extraction from Scientific Text and Tables by Learning to Retrieve and Select
+- MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction
+- Fine-grained Contrastive Learning for Relation Extraction
+- Rescue Implicit and Long-tail Cases: Nearest Neighbor Relation Extraction
+- A Unified Positive-Unlabeled Learning Framework for Document-Level Relation Extraction with Different Levels of Labeling
+- Learning Robust Representations for Continual Relation Extraction via Adversarial Class Augmentation
+- Cross-stitching Text and Knowledge Graph Encoders for Distantly Supervised Relation Extraction
+- Better Few-Shot Relation Extraction with Label Prompt Dropout
+- MatchPrompt: Prompt-based Open Relation Extraction with Semantic Consistency Guided Clustering
+- Towards Better Document-level Relation Extraction via Iterative Inference
+- Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study
+- Not Just Plain Text! Fuel Document-Level Relation Extraction with Explicit Syntax Refinement and Subsentence Modeling
 
 ## NAACL
 - HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction
@@ -216,6 +228,57 @@
 [PDF](https://aclanthology.org/2022.findings-naacl.29.pdf)
 
 # 事件抽取
+## EMNLP 2022
+- Efficient Zero-shot Event Extraction with Context-Definition Alignment
+- PHEE: A Dataset for Pharmacovigilance Event Extraction from Text
+- Title2Event: Benchmarking Open Event Extraction with a Large-scale Chinese Title Dataset
+- MEE: A Novel Multilingual Event Extraction Dataset
+- Mask-then-Fill: A Flexible and Effective Data Augmentation Framework for Event Extraction
+- Open-Vocabulary Argument Role Prediction For Event Extraction
+- Efficient Zero-shot Event Extraction with Context-Definition Alignment
+- PHEE: A Dataset for Pharmacovigilance Event Extraction from Text
+- Title2Event: Benchmarking Open Event Extraction with a Large-scale Chinese Title Dataset
 
 
+# 信息抽取
+## ACL 2022
+- Text-to-Table: A New Way of Information Extraction
+[PDF](https://arxiv.org/pdf/2109.02707)
+[CODE](https://github.com/shirley-wu/text_to_table)
+- Unified Structure Generation for Universal Information Extraction
+[PDF](https://arxiv.org/pdf/2203.12277)
+[CODE](https://github.com/universal-ie/UIE)
+- FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction
+[PDF](https://arxiv.org/pdf/2203.08411)
+- Automatic Error Analysis for Document-level Information Extraction
+[PDF](https://aclanthology.org/2022.acl-long.274/)
+[CODE](https://github.com/IceJinx33/auto-err-template-fill/)
+- BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation
+[PDF](https://aclanthology.org/2022.acl-long.307/)
+[CODE](https://github.com/gkiril/benchie)
+- OIE@OIA: an Adaptable and Efficient Open Information Extraction Framework
+[PDF](https://aclanthology.org/2022.acl-long.430/)
+- MILIE: Modular & Iterative Multilingual Open Information Extraction
+[PDF](https://aclanthology.org/2022.acl-long.478/)
 
+## EMNLP 2022
+- HumSet: Dataset of Multilingual Information Extraction and Classification for Humanitarian Crises Response
+- Unsupervised Domain Adaptation for Joint Information Extraction
+- Syntactically Robust Training on Partially-Observed Data for Open Information Extraction
+- Syntactic Multi-view Learning for Open Information Extraction
+- A Speaker-Aware Co-Attention Framework for Medical Dialogue Information Extraction
+- Syntactically Rich Discriminative Training: An Effective Method for Open Information Extraction
+- IELM: An Open Information Extraction Benchmark for Pre-Trained Language Models
+- Towards Generalized Open Information Extraction
+
+## NAACL 2022
+- GenIE: Generative Information Extraction
+[PDF](https://arxiv.org/pdf/2112.08340)
+[CODE](https://github.com/epfl-dlab/GenIE)
+- CompactIE: Compact Facts in Open Information Extraction
+[PDF](https://arxiv.org/pdf/2205.02880)
+[CODE](https://github.com/FarimaFatahi/CompactIE)
+- GMN: Generative Multi-modal Network for Practical Document Information Extraction
+[PDF](https://arxiv.org/pdf/2207.04713)
+- Joint Extraction of Entities, Relations, and Events via Modeling Inter-Instance and Inter-Label Dependencies
+[PDF](https://aclanthology.org/2022.naacl-main.324.pdf)
