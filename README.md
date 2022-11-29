@@ -308,6 +308,11 @@
 [PDF](https://aclanthology.org/2022.findings-naacl.29.pdf)
 
 # 事件抽取
+## ACL 2022
+- Dynamic Prefix-Tuning for Generative Template-based Event Extraction
+- Legal Judgment Prediction via Event Extraction with Constraints 
+- 
+
 ## EMNLP 2022
 - Efficient Zero-shot Event Extraction with Context-Definition Alignment
 - PHEE: A Dataset for Pharmacovigilance Event Extraction from Text
