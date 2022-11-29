@@ -327,3 +327,8 @@
 ## COLING 2022
 - OneEE: A One-Stage Framework for Fast Overlapping and Nested Event Extraction
 - CLIO: Role-interactive Multi-event Head Attention Network for Document-level Event Extraction
+
+## NAACL 2022
+- RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction
+- DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction
+- DEGREE: A Data-Efficient Generation-Based Event Extraction Model
