@@ -341,7 +341,7 @@
 
 # 中文NER
 - [ACL2021] MECT: Multi-Metadata Embedding based Cross-Transformer for Chinese Named Entity Recognition
-[PDF](MECT: Multi-Metadata Embedding based Cross-Transformer for Chinese Named Entity Recognition)
+[PDF](https://arxiv.org/abs/2107.05418)
 [CODE](https://github.com/CoderMusou/MECT4CNER)
 - FGN: Fusion glyph network for Chinese named entity recognition
 [PDF](https://arxiv.org/pdf/2001.05272)
