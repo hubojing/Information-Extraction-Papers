@@ -161,12 +161,18 @@
 
 ## COLING 2022
 - LightNER: A Lightweight Tuning Paradigm for Low-resource NER via Pluggable Prompting
+[PDF](https://arxiv.org/abs/2109.00720)
+[CODE](https://github.com/zjunlp/DeepKE/tree/main/example/ner/few-shot)
 - COPNER: Contrastive Learning with Prompt Guiding for Few-shot Named Entity Recognition
+[PDF](https://aclanthology.org/2022.coling-1.222.pdf)
 - PCBERT: Parent and Child BERT for Chinese Few-shot NER
+[PDF](https://aclanthology.org/2022.coling-1.192.pdf)
 - Adaptive Threshold Selective Self-Attention for Chinese NER
+[PDF](https://aclanthology.org/2022.coling-1.157.pdf)
 - Read Extensively, Focus Smartly: A Cross-document Semantic Enhancement Method for Visual Documents NER
 - Few-shot Named Entity Recognition with Entity-level Prototypical Network Enhanced by Dispersedly Distributed Prototypes
 - Two Languages Are Better Than One: Bilingual Enhancement For Chinese Named Entity Recognition
+[PDF](https://aclanthology.org/2022.coling-1.176.pdf)
 - Flat Multi-modal Interaction Transformer for Named Entity Recognition
 - Nested Named Entity Recognition as Corpus Aware Holistic Structure Parsing
 - Tafsir Dataset: A Novel Multi-Task Benchmark for Named Entity Recognition and Topic Modeling in Classical Arabic Literature
@@ -332,3 +338,11 @@
 - RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction
 - DocEE: A Large-Scale and Fine-grained Benchmark for Document-level Event Extraction
 - DEGREE: A Data-Efficient Generation-Based Event Extraction Model
+
+# 中文NER
+- [ACL2021] MECT: Multi-Metadata Embedding based Cross-Transformer for Chinese Named Entity Recognition
+[PDF](MECT: Multi-Metadata Embedding based Cross-Transformer for Chinese Named Entity Recognition)
+[CODE](https://github.com/CoderMusou/MECT4CNER)
+- FGN: Fusion glyph network for Chinese named entity recognition
+[PDF](https://arxiv.org/pdf/2001.05272)
+[CODE](https://github.com/AidenHuen/FGN-NER)
