@@ -352,3 +352,7 @@
 - CPT: A Pre-Trained Unbalanced Transformer for Both Chinese Language Understanding and Generation
 [PDF](https://arxiv.org/pdf/2109.05729.pdf)
 [CODE](https://github.com/fastnlp/CPT)
+- A BERT-BiGRU-CRF Model for Entity Recognition of Chinese Electronic Medical Records
+[PDF](https://www.hindawi.com/journals/complexity/2021/6631837/)
+- Named Entity Recognition of Traditional Chinese Medicine Patents Based on BiLSTM-CRF
+[PDF](https://www.hindawi.com/journals/wcmc/2021/6696205/)
