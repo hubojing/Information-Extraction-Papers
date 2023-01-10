@@ -346,3 +346,9 @@
 - FGN: Fusion glyph network for Chinese named entity recognition
 [PDF](https://arxiv.org/pdf/2001.05272)
 [CODE](https://github.com/AidenHuen/FGN-NER)
+- fastHan: A BERT-based Multi-Task Toolkit for Chinese NLP
+[PDF](https://arxiv.org/abs/2009.08633)
+[CODE](https://github.com/fastnlp/fastHan)
+- CPT: A Pre-Trained Unbalanced Transformer for Both Chinese Language Understanding and Generation
+[PDF](https://arxiv.org/pdf/2109.05729.pdf)
+[CODE](https://github.com/fastnlp/CPT)
