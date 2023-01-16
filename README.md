@@ -2,6 +2,10 @@
 信息抽取相关顶会论文。
 
 # 信息抽取
+## AAAI 2023
+- Universal Information Extraction as Unified Semantic Matching
+[PDF](https://arxiv.org/pdf/2301.03282.pdf)
+
 ## ACL 2022
 - Text-to-Table: A New Way of Information Extraction
 [PDF](https://arxiv.org/pdf/2109.02707)
