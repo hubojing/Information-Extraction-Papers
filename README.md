@@ -31,6 +31,8 @@
 - Unsupervised Domain Adaptation for Joint Information Extraction
 - Syntactically Robust Training on Partially-Observed Data for Open Information Extraction
 - Syntactic Multi-view Learning for Open Information Extraction
+[PDF](https://arxiv.org/pdf/2212.02068)
+[CODE](https://github.com/daviddongkc/smile_oie)
 - A Speaker-Aware Co-Attention Framework for Medical Dialogue Information Extraction
 - Syntactically Rich Discriminative Training: An Effective Method for Open Information Extraction
 - IELM: An Open Information Extraction Benchmark for Pre-Trained Language Models
