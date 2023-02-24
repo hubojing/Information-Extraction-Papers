@@ -54,6 +54,19 @@
 [PDF](https://aclanthology.org/2022.naacl-main.324.pdf)
 
 # 命名实体识别
+## AAAI 2023
+- ProKD: An Unsupervised Prototypical Knowledge Distillation Network for Zero-Resource Cross-Lingual Named Entity Recognition
+[PDF](https://arxiv.org/pdf/2301.08855)
+- Distantly-Supervised Named Entity Recognition with Adaptive Teacher Learning and Fine-grained Student Ensemble
+[PDF](https://arxiv.org/pdf/2212.06522)
+[CODE](https://github.com/zenhjunpro/ATSEN)
+- Nested Named Entity Recognition as Building Local Hypergraphs
+- A Neural Span-Based Continual Named Entity Recognition Model
+- AUC Maximization for Low-Resource Named Entity Recognition
+[PDF](https://arxiv.org/pdf/2212.04800)
+- MNER-QG: An End-to-End MRC Framework for Multimodal Named Entity Recognition with Query Grounding
+[PDF](https://arxiv.org/pdf/2211.14739)
+
 ## ACL 2022
 - KinyaBERT: a Morphology-aware Kinyarwanda Language Model
 [PDF](https://arxiv.org/abs/2203.08459)
@@ -204,6 +217,10 @@
 [CODE](https://github.com/yhcc/CNN_Nested_NER)
 
 # 关系抽取
+## AAAI 2023
+- Exploring Self-distillation based Relational Reasoning Training for Document-level Relation Extraction
+
+
 ## ACL 2022
 - Document-Level Relation Extraction with Adaptive Focal Loss and Knowledge Distillation
 [PDF](https://arxiv.org/pdf/2203.10900)
