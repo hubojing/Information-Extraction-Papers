@@ -6,6 +6,11 @@
 - Universal Information Extraction as Unified Semantic Matching
 [PDF](https://arxiv.org/pdf/2301.03282.pdf)
 
+## SIGIR 2023
+- Schema-aware Reference as Prompt Improves Data-Efficient Relational Triple and Event Extraction
+[PDF](https://arxiv.org/abs/2210.10709)
+[CODE](https://github.com/zjunlp/RAP)
+
 ## ACL 2022
 - Text-to-Table: A New Way of Information Extraction
 [PDF](https://arxiv.org/pdf/2109.02707)
