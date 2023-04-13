@@ -341,6 +341,11 @@
 - Extracting Temporal Event Relation with Syntax-guided Graph Transformer
 [PDF](https://aclanthology.org/2022.findings-naacl.29.pdf)
 
+# www 2022
+- KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction
+[PDF](https://arxiv.org/pdf/2104.07650)
+[CODE](https://github.com/zjunlp/KnowPrompt)
+
 # 事件抽取
 ## ACL 2022
 - Dynamic Prefix-Tuning for Generative Template-based Event Extraction
